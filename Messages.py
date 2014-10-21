@@ -43,9 +43,9 @@ def save_conversations(conversations, conversations_filename):
 
     for convo in conversations:
         msgs = []
-        for msg in self.messages:
+        for msg in convo.messages:
             msgs.append((msg.date, msg.sender, msg.text))
-        convos.append((convo.id_num, convo.users, convo.messages))
+        convos.append((convo.id_num, convo.users, msgs))
     
     conversations_file.write(json.dumps(convos))
     conversations_file.close()

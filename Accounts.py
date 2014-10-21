@@ -54,7 +54,9 @@ class Accounts_Manager():
 
         for line in accounts_file:
             entries = line.split(' ', 2)
+            entries[1] = entries[1][:-1]
             acct = Account(entries[0], entries[1])
+            print('adding Account({}, {})'.format(entries[0], entries[1]))
             self.add_user(acct)
         accounts_file.close()
 

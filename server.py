@@ -58,23 +58,23 @@ def handle_send(args):
 
     convo_id = args[1]
 
-    msg = Message(msg_date, msg_sender, msg_text)
+    msg = Message(msg_date, msg_sender, msg_txt)
 
     for convo in conversations:
-        if convo.id_num == int(convo_id):
+        if convo.id_num == convo_id:
             convo.send_message(msg)
             return 'Message send to conversation {}'.format(convo_id)
     return 'Error: No conversation with id={}'.format(convo_id)
 
 def handle_create_conversation(args):
     while True:
-        id_num = random.randint(100000, 999999)
+        id_num = str(random.randint(100000, 999999))
         for convo in conversations:
             if convo.id_num == id_num:
                 continue
         break
 
-    users = args[1:]
+    users = args
     convo = Conversation(users, id_num)
     conversations.append(convo)
 
@@ -86,9 +86,9 @@ def handle_get_convos(args):
         if args[0] in convo.users:
             msgs = []
             for m in convo.messages:
-                msg = (m.sender, m.date, m.text)
-                conv.append(msgs)
-            convos.append((convo.id_num, convo.users, msgs))
+                msg = [m.sender, m.date, m.text]
+                msgs.append(msg)
+            convos.append([convo.id_num, convo.users, msgs])
     response = json.dumps(convos)
     return response
 
@@ -151,8 +151,6 @@ def serve_forever(host, port):
 
     rlist, wlist, elist = [lstsock], [], []
    
-    initialize()
-
     oldtime = time.time()
 
     while True:
