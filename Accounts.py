@@ -20,10 +20,8 @@ class Accounts_Manager():
 
     def check_key(self, key):
         for acct in self.accounts:
-            if acct.authentication_key is not None:
-                print("Checking " + acct.authentication_key + " == " + key)
-                if acct.authentication_key == key:
-                    return acct.uname
+            if acct.authentication_key == key:
+                return acct.uname
         return None
 
     def login(self, uname):
@@ -55,20 +53,18 @@ class Accounts_Manager():
             return
 
         for line in accounts_file:
-            acct = Account()
             entries = line.split(' ', 2)
-            acct.uname = entries[0]
-            acct.pword = entries[1]
+            acct = Account(entries[0], entries[1])
             self.add_user(acct)
         accounts_file.close()
 
     def save_account_info(self):
         try:
-            accounts_file = open(accounts_filename, 'w')
+            accounts_file = open(self.accounts_filename, 'w')
         except OSError as e:
             print(e.strerror)
             return
-        for account in self.accounts:
+        for acct in self.accounts:
             accounts_file.write(acct.uname + ' ' + acct.pword + '\n')
         accounts_file.close()
 

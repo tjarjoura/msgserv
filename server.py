@@ -2,7 +2,8 @@ import socket
 import sys
 import errno
 import select
-import pickle 
+import json 
+import time
 
 from Accounts import *
 from Messages import *
@@ -10,6 +11,7 @@ from Messages import *
 acct_manager = Accounts_Manager("./accounts")
 
 conversations = []
+conversations_filename = "./conversations"
 
 class Handler():
     def __init__(self, requires_key, n_args, handler):
@@ -18,7 +20,7 @@ class Handler():
         self.handler = handler
 
     def valid(self, args):
-        return len(args) == self.n_args
+        return len(args) >= self.n_args
 
     def handle(self, args):
         return self.handler(args)
@@ -34,7 +36,7 @@ def handle_login(args):
         return "Login error"
 
 def handle_logout(args):
-    if logout(args[0]) == -1:
+    if acct_manager.logout(args[0]) == -1:
         return "Logout error"
 
     return args[0] + " logged out sucessfully"
@@ -44,17 +46,27 @@ def handle_list_users(args):
     for acct in acct_manager.accounts:
         users.append(acct.uname)
     try:
-        user_list = pickle.dumps(users)
+        user_list = json.dumps(users)
     except:
         return "Pickle error"
-    return user_list.decode("utf-8")
+    return user_list
     
 def handle_send(args):
-    return "Send requested"
+    msg_txt    = args[2]
+    msg_date   = time.ctime(None)
+    msg_sender = args[0]
+
+    convo_id = args[1]
+
+    msg = Message(msg_date, msg_sender, msg_text)
+
+    for convo in conversations:
+        if convo.id_num == int(convo_id):
+            convo.send_message(msg)
+            return 'Message send to conversation {}'.format(convo_id)
+    return 'Error: No conversation with id={}'.format(convo_id)
 
 def handle_create_conversation(args):
-    if acct_manager.check_key(args[0]) == False:
-        return "Authentication error. Send your authentication key as the first argument."
     while True:
         id_num = random.randint(100000, 999999)
         for convo in conversations:
@@ -64,9 +76,21 @@ def handle_create_conversation(args):
 
     users = args[1:]
     convo = Conversation(users, id_num)
-    conversations.apppend(convo)
+    conversations.append(convo)
 
     return "Conversation created. ID = " + convo.id_num
+
+def handle_get_convos(args):
+    convos = []
+    for convo in conversations:
+        if args[0] in convo.users:
+            msgs = []
+            for m in convo.messages:
+                msg = (m.sender, m.date, m.text)
+                conv.append(msgs)
+            convos.append((convo.id_num, convo.users, msgs))
+    response = json.dumps(convos)
+    return response
 
 def handle_remove_account(args):
     return "Remove account requested"
@@ -77,10 +101,12 @@ def handle_create_account(args):
     return "Created account for " + args[0] 
 
 handlers = {'login': Handler(False, 2, handle_login), 
-            'logout': Handler(True, 0, handle_logout), 
-            'list-users': Handler(True, 0, handle_list_users), 
-            'send': Handler(True, 1, handle_send), 
-            'remove-account': Handler(True, 0, handle_remove_account), 
+            'logout': Handler(True, 1, handle_logout), 
+            'list-users': Handler(True, 1, handle_list_users), 
+            'send': Handler(True, 3, handle_send), 
+            'new-convo': Handler(True, 2, handle_create_conversation),
+            'get-convos': Handler(True, 1, handle_get_convos),
+            'remove-account': Handler(True, 1, handle_remove_account), 
             'create-account': Handler(False, 2, handle_create_account)
             }
 
@@ -94,10 +120,11 @@ def cmd_parse(data):
             if len(args) < 1:
                 response = "Error: Key required"
                 return response
-            if not acct_manager.check_key(args[0]):
+            uname = acct_manager.check_key(args[0])
+            if not uname:
                 response = "Error: Bad key"
                 return response
-            args = args[1:]
+            args[0] = uname
 
         if h.valid(args):
             response = h.handle(args)
@@ -112,6 +139,7 @@ def initialize():
     global acct_manager
 
     acct_manager.load_account_info()
+    conversations = load_conversations(conversations_filename)
 
 def serve_forever(host, port):
     lstsock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -122,14 +150,24 @@ def serve_forever(host, port):
     lstsock.listen(5)
 
     rlist, wlist, elist = [lstsock], [], []
+   
+    initialize()
+
+    oldtime = time.time()
 
     while True:
+        if (time.time() - oldtime > 30): #save info every 30 seconds
+            acct_manager.save_account_info()
+            save_conversations(conversations, conversations_filename)
+            oldtime = time.time()
+
         readables, writeable, exceptions = select.select(rlist, wlist, elist)
 
         for sock in readables:
             if sock is lstsock:
                 try:
                     conn, addr = lstsock.accept()
+                    print('accepted connection from: {}'.format(addr))
                 except OSError as e:
                     errnum, errmsg = e.args
                     print(msg)
@@ -138,17 +176,15 @@ def serve_forever(host, port):
                     else:
                         raise
                 rlist.append(conn)
+                print(rlist)
             else:
                 data = sock.recv(1024)
                 if not data: #connection closed by client
                     sock.close()
                     rlist.remove(sock)
                 else:
-                    response = bytearray()
-                    response_string = cmd_parse(data.decode("utf-8"))
-                    response.append += response_string.encode("utf-8")
-                    response.append([int('0x0d', 16), int('0x0a', 16)]) # append /r/n
-                    sock.sendall(response)
+                    response = cmd_parse(data.decode("utf-8"))
+                    sock.sendall(bytes(response + '/r/n', "utf-8"));
 
 def main():
     initialize()
