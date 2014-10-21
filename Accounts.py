@@ -20,8 +20,10 @@ class Accounts_Manager():
 
     def check_key(self, key):
         for acct in self.accounts:
-            if acct.authentication_key == key:
-                return acct.uname
+            if acct.authentication_key is not None:
+                print("Checking " + acct.authentication_key + " == " + key)
+                if acct.authentication_key == key:
+                    return acct.uname
         return None
 
     def login(self, uname):

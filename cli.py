@@ -1,5 +1,6 @@
 import socket
 import sys
+import pickle
 
 HOST, PORT = sys.argv[1], 5555
 
@@ -14,23 +15,27 @@ except:
 while True:
     try:
         inp = input(">> ")
-  
     except EOFError:
         break
+    
+    cmd = inp.split()[0]
+    print(cmd)
     
     if inp == "done":
         break
 
     try:
-        received = ""
+        received = bytearray() 
         sock.sendall(bytes(inp + "\n", "utf-8"))
         while True:
-            received += sock.recv(1024).decode("utf-8")
-            print(received)
-            print(received[-4:])
-            if received[-4:] == '/r/n':
+            received += sock.recv(1024)
+            if received[-2:] == [int('0x0d', 16), int('0x0a', 16)]:
                 break
 
+        if cmd == 'list-users':
+            users = pickle.loads(received[:-4])
+            print(users)
+    
     except OSError:
         print('error')
         sock.close()

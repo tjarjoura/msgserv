@@ -2,7 +2,7 @@ import socket
 import sys
 import errno
 import select
-import cpickle as pickle
+import pickle 
 
 from Accounts import *
 from Messages import *
@@ -10,6 +10,18 @@ from Messages import *
 acct_manager = Accounts_Manager("./accounts")
 
 conversations = []
+
+class Handler():
+    def __init__(self, requires_key, n_args, handler):
+        self.requires_key = requires_key
+        self.n_args = n_args
+        self.handler = handler
+
+    def valid(self, args):
+        return len(args) == self.n_args
+
+    def handle(self, args):
+        return self.handler(args)
 
 def handle_login(args):
     if acct_manager.authenticate(args[0], args[1]):
@@ -28,13 +40,20 @@ def handle_logout(args):
     return args[0] + " logged out sucessfully"
 
 def handle_list_users(args):
-    return "List users requested"
-
+    users = []
+    for acct in acct_manager.accounts:
+        users.append(acct.uname)
+    try:
+        user_list = pickle.dumps(users)
+    except:
+        return "Pickle error"
+    return user_list.decode("utf-8")
+    
 def handle_send(args):
     return "Send requested"
 
 def handle_create_conversation(args):
-    if check_key(args[0]) == False:
+    if acct_manager.check_key(args[0]) == False:
         return "Authentication error. Send your authentication key as the first argument."
     while True:
         id_num = random.randint(100000, 999999)
@@ -57,24 +76,36 @@ def handle_create_account(args):
     acct_manager.add_user(acct)
     return "Created account for " + args[0] 
 
+handlers = {'login': Handler(False, 2, handle_login), 
+            'logout': Handler(True, 0, handle_logout), 
+            'list-users': Handler(True, 0, handle_list_users), 
+            'send': Handler(True, 1, handle_send), 
+            'remove-account': Handler(True, 0, handle_remove_account), 
+            'create-account': Handler(False, 2, handle_create_account)
+            }
+
 def cmd_parse(data):
-    arguments = data.split()
+    args = data.split()
     
-    if arguments[0] == "login":
-        response = handle_login(arguments[1:])
-    elif arguments[0] == "logout":
-        response = handle_logout(arguments[1:])
-    elif arguments[0] == "list-users":
-        response = handle_list-users(arguments[1:])
-    elif arguments[0] == "send":
-        response = handle_send(arguments[1:])
-    elif arguments[0] == "remove-account":
-        response = handle_remove_account(arguments[1:])
-    elif arguments[0] == "create-account":
-        response = handle_create_account(arguments[1:])
-    else:
+    if args[0] in handlers:
+        h = handlers[args[0]]
+        args = args[1:]
+        if h.requires_key:
+            if len(args) < 1:
+                response = "Error: Key required"
+                return response
+            if not acct_manager.check_key(args[0]):
+                response = "Error: Bad key"
+                return response
+            args = args[1:]
+
+        if h.valid(args):
+            response = h.handle(args)
+        else:
+            response = "Error: Invalid" + str(args)
+    else: 
         response = "Error: Unknown command"
-    
+
     return response
 
 def initialize():
@@ -113,8 +144,11 @@ def serve_forever(host, port):
                     sock.close()
                     rlist.remove(sock)
                 else:
-                    response = cmd_parse(data.decode("utf-8"))
-                    sock.sendall(bytes(response + '/r/n', "utf-8"))
+                    response = bytearray()
+                    response_string = cmd_parse(data.decode("utf-8"))
+                    response.append += response_string.encode("utf-8")
+                    response.append([int('0x0d', 16), int('0x0a', 16)]) # append /r/n
+                    sock.sendall(response)
 
 def main():
     initialize()
