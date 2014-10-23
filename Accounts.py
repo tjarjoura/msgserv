@@ -18,27 +18,24 @@ class Accounts_Manager():
                 return 0
         return -1
 
-    def check_key(self, key):
+    def get_uname(self, peername):
         for acct in self.accounts:
-            if acct.authentication_key == key:
+            if acct.peername == peername:
                 return acct.uname
         return None
 
-    def login(self, uname):
+    def login(self, uname, peername):
         for account in self.accounts:
             if account.uname == uname:
-                if account.logged_in:
+                if account.peername is not None:
                     return None
-                account.logged_in = True
-                account.authentication_key = str(random.randint(10000, 99999))
-                return account.authentication_key
+                account.peername = peername
         return None
 
     def logout(self, uname):
         for account in self.accounts:
             if account.uname == uname:
-                account.logged_in = False
-                account.authentication_key = None
+                account.peername = None
                 return 0
         return -1
 
@@ -78,10 +75,15 @@ class Accounts_Manager():
                 return False
         return False
 
+    def user_exists(self, uname):
+        for acct in self.accounts:
+            if acct.uname == uname:
+                return True
+        return False
+
 class Account():
     def __init__(self, uname, pword):
         self.uname = uname
         self.pword = pword
-        self.logged_in = False
-        self.authentication_key = None
+        self.peername = None
 

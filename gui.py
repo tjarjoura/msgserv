@@ -2,7 +2,6 @@ import curses
 
 class Messaging_Client():
     def __init__(self):
-        print ('init start')
         self.stdscr = curses.initscr()
         curses.cbreak()
         curses.noecho()
@@ -15,18 +14,18 @@ class Messaging_Client():
         
         self.height, self.width = self.stdscr.getmaxyx()
 
-        self.windows['titlebar'] = curses.derwin(1, self.width, 0, 0)
-        self.windows['menu_area'] = curses.derwin(10, 20, 1, 0)
-        self.windows['user_list'] = curses.derwin(self.height - 11, 20, 11, 0)
-        self.windows['message_area'] = curses.derwin(self.height - 1, self.width - 20, 1, 20)
-        self.windows['input_area'] = curses.derwin(1, self.width, self.height - 1, 0)
+        self.windows['titlebar'] = self.stdscr.derwin(1, self.width, 0, 0)
+        self.windows['menu_area'] = self.stdscr.derwin(10, 20, 1, 0)
+        self.windows['user_list'] = self.stdscr.derwin(self.height - 11, 20, 11, 0)
+        self.windows['message_area'] = self.stdscr.derwin(self.height - 1, self.width - 20, 1, 20)
+        self.windows['input_area'] = self.stdscr.derwin(1, self.width, self.height - 1, 0)
 
     def handle_input(self):
         c = self.stdscr.getch()
         if c == ord('q'):
             self.running = False
         else:
-            stdscr.addch(1, 0, c)
+            self.stdscr.echochar(c)
 
     def update_screen(self):
         for name, window in self.windows.items():
@@ -34,22 +33,17 @@ class Messaging_Client():
             window.clear()
             window.refresh()
 
-    def __del__(self):
-        nocbreak()
-        echo()
-        endwin()
-
 def main():
     cli = Messaging_Client()
-    
+   
+    print(cli.running)
     while cli.running:
-        print('loop')
         cli.update_screen()
         cli.handle_input()
     
-    nobreak()
-    echo()
-    endwin()
+    curses.nocbreak()
+    curses.echo()
+    curses.endwin()
 
 if __name__ == '__main__':
     main()

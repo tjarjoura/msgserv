@@ -14,8 +14,8 @@ conversations = []
 conversations_filename = "./conversations"
 
 class Handler():
-    def __init__(self, requires_key, n_args, handler):
-        self.requires_key = requires_key
+    def __init__(self, requires_login, n_args, handler):
+        self.requires_login = requires_login
         self.n_args = n_args
         self.handler = handler
 
@@ -26,14 +26,11 @@ class Handler():
         return self.handler(args)
 
 def handle_login(args):
-    if acct_manager.authenticate(args[0], args[1]):
-        key = acct_manager.login(args[0])
-        if key != None:
-            return "Login successful. Your key is " + key
-        else:
-            return "Login error. You're probably already logged in."
+    if acct_manager.authenticate(args[1], args[2]):
+        acct_manager.login(args[1], args[0])
+        return "{} logged in".format(args[1])
     else:
-        return "Login error"
+        return "Authentication error"
 
 def handle_logout(args):
     if acct_manager.logout(args[0]) == -1:
@@ -44,11 +41,11 @@ def handle_logout(args):
 def handle_list_users(args):
     users = []
     for acct in acct_manager.accounts:
-        users.append(acct.uname)
+        users.append((acct.uname, acct.peername != None))
     try:
         user_list = json.dumps(users)
     except:
-        return "Pickle error"
+        return "Json error"
     return user_list
     
 def handle_send(args):
@@ -96,11 +93,13 @@ def handle_remove_account(args):
     return "Remove account requested"
 
 def handle_create_account(args):
-    acct = Account(args[0], args[1])
+    if acct_manager.user_exists(args[1]):
+        return "Error, account for {} already exists".format(args[1])
+    acct = Account(args[1], args[2])
     acct_manager.add_user(acct)
-    return "Created account for " + args[0] 
+    return "Created account for " + args[1] 
 
-handlers = {'login': Handler(False, 2, handle_login), 
+handlers = {'login': Handler(False, 3, handle_login), 
             'logout': Handler(True, 1, handle_logout), 
             'list-users': Handler(True, 1, handle_list_users), 
             'send': Handler(True, 3, handle_send), 
@@ -110,26 +109,27 @@ handlers = {'login': Handler(False, 2, handle_login),
             'create-account': Handler(False, 2, handle_create_account)
             }
 
-def cmd_parse(data):
+def cmd_parse(data, peername):
     args = data.split()
     
     if args[0] in handlers:
         h = handlers[args[0]]
         args = args[1:]
-        if h.requires_key:
-            if len(args) < 1:
-                response = "Error: Key required"
-                return response
-            uname = acct_manager.check_key(args[0])
-            if not uname:
-                response = "Error: Bad key"
-                return response
-            args[0] = uname
+
+        if h.requires_login:
+            uname = acct_manager.get_uname(peername)
+            if uname == None:
+                response = "Error: Log in first"
+                return
+            else:
+                args.insert(0, uname)
+        else:
+            args.insert(0, peername)
 
         if h.valid(args):
             response = h.handle(args)
         else:
-            response = "Error: Invalid" + str(args)
+            response = "Error: Invalid no. of args"
     else: 
         response = "Error: Unknown command"
 
@@ -176,12 +176,15 @@ def serve_forever(host, port):
                 rlist.append(conn)
                 print(rlist)
             else:
+                print("received transmission from {}".format(sock.getpeername()))
                 data = sock.recv(1024)
                 if not data: #connection closed by client
+                    print("closing connection with {}".format(sock.getpeername()))
+                    acct_manager.logout(sock.getpeername())
                     sock.close()
                     rlist.remove(sock)
                 else:
-                    response = cmd_parse(data.decode("utf-8"))
+                    response = cmd_parse(data.decode("utf-8"), sock.getpeername())
                     sock.sendall(bytes(response + '/r/n', "utf-8"));
 
 def main():
