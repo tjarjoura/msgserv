@@ -15,3 +15,13 @@ send [conversation key] [message text] : Assuming the authentication and convers
 remove-account : Assuming the authentication key is valid, this will log the user out and delete their account.
 
 create-account [username] [password] : Creates a new account on the server with username and password.
+
+Screenshots:
+
+![chat](https://github.com/Hero764/msgserv/blob/master/screens/Screenshot%20from%202014-10-28%2016:42:31.png)
+
+![main screen](https://github.com/Hero764/msgserv/blob/master/screens/Screenshot from 2014-10-28 16:42:35.png)
+
+![new convo](https://github.com/Hero764/msgserv/blob/master/screens/Screenshot from 2014-10-28 16:42:35.png)
+
+![login](https://github.com/Hero764/msgserv/blob/master/screens/Screenshot%20from%202014-10-28%2016:42:45.png)
