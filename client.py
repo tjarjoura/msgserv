@@ -1,4 +1,4 @@
-import urwid, curses, socket, sys, json
+import urwid, curses, socket, sys, json, logging
 from client_network import *
 
 program_name = "MSGSERV VER 0.1"
@@ -14,28 +14,33 @@ palette = [
 class MainScreen(urwid.Filler):
     def __init__(self):
         self.title = urwid.Text(('titlebar', program_name))
-        self.convos_body = urwid.SimpleFocusListWalker([urwid.Text(('section_title', "CONVERSATIONS"))])
-        self.convo_list = urwid.ListBox(self.convos_body)
-        self.users_body = urwid.SimpleFocusListWalker([urwid.Text(('section_title', "USERS"))])
-        self.user_list = urwid.ListBox(self.users_body)
-        
-        self.screen = urwid.Columns([self.user_list, self.convo_list], dividechars=5, focus_column=1)
+        self.convo_list = urwid.SimpleListWalker([])
+        self.user_list = urwid.SimpleListWalker([])
+        self.top = urwid.Pile([self.title, urwid.Columns([(25, urwid.LineBox(urwid.ListBox(self.user_list), title="USERS")), urwid.LineBox(urwid.ListBox(self.convo_list), title="CONVERSATIONS")], dividechars=5, focus_column=1)])
 
-        super().__init__(self.screen, valign='top')
+        super().__init__(self.top, min_height=30)
 
     def update_lists(self):
-        self.convos_body = self.convos_body[:1]
         convos = get_convos()
         for c in convos:
-            self.convos_body.append(urwid.Text(c))
+            self.convos_list.body.append(urwid.Button(c))
 
-        self.users_body = self.users_body[:1]
         users = get_users()
         for u in users:
             if u[1] == True:
-                self.users_body.append(urwid.Text(('status_green', u[0])))
+                self.user_list.append((urwid.Text(('status_green', u[0])), ('weight', 1)))
             else:
-                self.users_body.append(urwid.Text(('status_red', u[0])))
+                self.user_list.append((urwid.Text(('status_red', u[0])), ('weight', 1)))
+    
+    def keypress(self, size, key):
+        logging.debug('{} was pressed'.format(key))
+        if key != 'r' and key != 'q':
+            return super().keypress(size, key)
+        if key == 'r':
+            logging.debug('r key pressed.')
+            self.update_lists()
+        elif key == 'q':
+            raise urwid.ExitMainLoop()
 
 class LoginScreen(urwid.Filler):
     def __init__(self):
@@ -45,7 +50,7 @@ class LoginScreen(urwid.Filler):
         self.password_prompt = urwid.Edit([('prompt', "Password:"), " "], align='left')
         div_b = urwid.Divider()
         self.status_text = urwid.Text("", align='left')
-        self.screen = urwid.Pile([self.title, div_a, self.username_prompt, self.password_prompt, div_b, self.status_text])
+        self.screen = urwid.LineBox(urwid.Pile([self.title, div_a, self.username_prompt, self.password_prompt, div_b, self.status_text]))
 
         super().__init__(self.screen, valign='top')
 

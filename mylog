@@ -1,0 +1,33 @@
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc) -- Received: Authentication error
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]

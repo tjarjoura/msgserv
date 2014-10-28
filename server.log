@@ -1,0 +1,91 @@
+DEBUG:root:handle_login args: [('10.0.7.86', 60897), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60897)
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60897)
+DEBUG:root:handle_login args: [('10.0.7.86', 60898), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60898)
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60898)
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60898)
+DEBUG:root:handle_login args: [('10.0.7.86', 60963), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60963)
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60963)
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60963)
+DEBUG:root:handle_login args: [('10.0.7.86', 60964), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60964)
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60964)
+DEBUG:root:uname = tyler : peername = ('10.0.7.86', 60964)
+DEBUG:root:handle_login args: [('127.0.0.1', 54196), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54196)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54196)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54196)
+DEBUG:root:handle_login args: [('127.0.0.1', 54197), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54197)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54197)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54197)
+DEBUG:root:handle_login args: [('127.0.0.1', 54320), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54320)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54320)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54320)
+DEBUG:root:handle_login args: [('127.0.0.1', 54321), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54321)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54321)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54321)
+DEBUG:root:uname = tyler : peername = None
+DEBUG:root:uname = ambie : peername = None
+DEBUG:root:uname = rod : peername = None
+DEBUG:root:uname = jamen : peername = None
+DEBUG:root:uname = root : peername = None
+DEBUG:root:uname = hreeer : peername = None
+DEBUG:root:handle_login args: [('127.0.0.1', 54335), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54335)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54335)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54335)
+DEBUG:root:handle_login args: [('127.0.0.1', 54336), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54336)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54336)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54336)
+DEBUG:root:handle_login args: [('127.0.0.1', 54345), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54345)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54345)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 54345)
+DEBUG:root:handle_login args: [('127.0.0.1', 47117), 'tyler', 'asd']
+DEBUG:root:handle_login args: [('127.0.0.1', 47117), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47117)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47117)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47117)
+DEBUG:root:handle_login args: [('127.0.0.1', 47118), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47118)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47118)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47118)
+DEBUG:root:handle_login args: [('127.0.0.1', 47289), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47289)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47289)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47289)
+DEBUG:root:handle_login args: [('127.0.0.1', 47290), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47290)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47290)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47290)
+DEBUG:root:handle_login args: [('127.0.0.1', 47291), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47291)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47291)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47291)
+DEBUG:root:handle_login args: [('127.0.0.1', 47292), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47292)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47292)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47292)
+DEBUG:root:handle_login args: [('127.0.0.1', 47293), 'tyler', 'abc']
+DEBUG:root:handle_login args: [('127.0.0.1', 47293), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47293)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47293)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47293)
+DEBUG:root:handle_login args: [('127.0.0.1', 47306), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47306)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47306)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47306)
+DEBUG:root:handle_login args: [('127.0.0.1', 47307), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47307)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47307)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47307)
+DEBUG:root:handle_login args: [('127.0.0.1', 47308), 'tyler', 'abc123']
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47308)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47308)
+DEBUG:root:uname = tyler : peername = ('127.0.0.1', 47308)

@@ -1,4 +1,4 @@
-import errno, random
+import errno, random, logging
 
 class Accounts_Manager():
     def __init__(self, accounts_filename):
@@ -20,6 +20,7 @@ class Accounts_Manager():
 
     def get_uname(self, peername):
         for acct in self.accounts:
+            logging.debug("uname = {} : peername = {}".format(acct.uname, acct.peername))
             if acct.peername == peername:
                 return acct.uname
         return None
@@ -28,7 +29,7 @@ class Accounts_Manager():
         for account in self.accounts:
             if account.uname == uname:
                 if account.peername is not None:
-                    return None
+                    return
                 account.peername = peername
         return None
 

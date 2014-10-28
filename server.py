@@ -4,6 +4,7 @@ import errno
 import select
 import json 
 import time
+import logging
 
 from Accounts import *
 from Messages import *
@@ -26,6 +27,7 @@ class Handler():
         return self.handler(args)
 
 def handle_login(args):
+    logging.debug("handle_login args: {}".format(args))
     if acct_manager.authenticate(args[1], args[2]):
         acct_manager.login(args[1], args[0])
         return "{} logged in".format(args[1])
@@ -87,6 +89,7 @@ def handle_get_convos(args):
                 msgs.append(msg)
             convos.append([convo.id_num, convo.users, msgs])
     response = json.dumps(convos)
+    print('response = {}, convos = {}'.format(response, convos))
     return response
 
 def handle_remove_account(args):
@@ -120,7 +123,7 @@ def cmd_parse(data, peername):
             uname = acct_manager.get_uname(peername)
             if uname == None:
                 response = "Error: Log in first"
-                return
+                return response
             else:
                 args.insert(0, uname)
         else:
@@ -180,15 +183,17 @@ def serve_forever(host, port):
                 data = sock.recv(1024)
                 if not data: #connection closed by client
                     print("closing connection with {}".format(sock.getpeername()))
-                    acct_manager.logout(sock.getpeername())
+                    acct_manager.logout(acct_manager.get_uname(sock.getpeername()))
                     sock.close()
                     rlist.remove(sock)
                 else:
                     response = cmd_parse(data.decode("utf-8"), sock.getpeername())
+                    print(response)
                     sock.sendall(bytes(response + '/r/n', "utf-8"));
 
 def main():
     initialize()
+    logging.basicConfig(filename="./server.log", level=logging.DEBUG)
     serve_forever("", 5555)
 
 if __name__ == '__main__':

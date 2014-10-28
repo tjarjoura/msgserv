@@ -1,7 +1,9 @@
-import socket, sys
+import socket, sys, json, logging
 
 conversations = []
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+logging.basicConfig(filename='mylog', level=logging.DEBUG)
+logging.debug('test test test')
 
 def connect_socket(ip_addr, port):
     try:
@@ -29,6 +31,7 @@ def send_message(msg):
 
 def attempt_login(uname, pword):
     response = send_message('login {} {}'.format(uname, pword))
+    logging.debug('In attempt_login({} {}) -- Received: {}'.format(uname, pword, response))
 
     if response == '{} logged in'.format(uname):
         return 1
@@ -37,7 +40,7 @@ def attempt_login(uname, pword):
 
 def get_convos():
     response = send_message('get-convos')
-
+    logging.debug('In get_convos() -- Received: {}'.format(response))
     convos = json.loads(response)
     convos_strings = []
 
@@ -51,5 +54,6 @@ def get_convos():
 
 def get_users():
     response = send_message('list-users')
+    logging.debug('In get_users() -- Received: {}'.format(response))
 
     return json.loads(response)
