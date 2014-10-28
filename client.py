@@ -16,30 +16,77 @@ class MainScreen(urwid.Pile):
         self.title = urwid.Text(('titlebar', program_name))
         self.convo_list = urwid.SimpleListWalker([])
         self.user_list = urwid.SimpleListWalker([])
-        self.controls = urwid.Text(('Ctrl-X for menu, q to quit', 'status_green'))
-        super().__init__([('pack', self.title), urwid.Columns([(25, urwid.LineBox(urwid.ListBox(self.user_list), title="USERS")), urwid.LineBox(urwid.ListBox(self.convo_list), title="CONVERSATIONS")], self.controls, dividechars=5, focus_column=1), ('pack', self.controls)])
+        self.controls = urwid.Text(('status_red', 'Ctrl-X for menu, q to quit'))
+        super().__init__([('pack', self.title), urwid.Columns([(25, urwid.LineBox(urwid.ListBox(self.user_list), title="USERS")), urwid.LineBox(urwid.ListBox(self.convo_list), title="CONVERSATIONS")], dividechars=5, focus_column=1), ('pack', self.controls)])
 
     def update_lists(self):
         convos = get_convos()
         for c in convos:
-            self.convos_list.body.append(urwid.Button(c))
+            button = urwid.Button(c[1], on_press=enter_convo, user_data=c[0])
+            self.convos_list.append(button)
 
         users = get_users()
         for u in users:
             if u[1] == True:
-                self.user_list.append((urwid.Text(('status_green', u[0])), ('weight', 1)))
+                self.user_list.append(urwid.Text(('status_green', u[0])))
             else:
-                self.user_list.append((urwid.Text(('status_red', u[0])), ('weight', 1)))
-    
+                self.user_list.append(urwid.Text(('status_red', u[0])))
+   
+    def enter_convo(self, convo_id):
+        send.set_id(convo_id)
+        send.update_messages()
+        loop.widget = send
+
     def keypress(self, size, key):
-        logging.debug('{} was pressed'.format(key))
-        if key != 'r' and key != 'q':
+        if key != 'r' and key != 'q' and key != 'n':
             return super().keypress(size, key)
         if key == 'r':
             logging.debug('r key pressed.')
             self.update_lists()
         elif key == 'q':
             raise urwid.ExitMainLoop()
+        elif key == 'n':
+            loop.widget = new_message
+
+
+class NewMessageScreen(urwid.Pile):
+    def __init__(self):
+        self.title = urwid.Text(('titlebar', program_name))
+        self.users_edit = urwid.Edit(caption="Users: ")
+        self.msg_edit = urwid.Edit(caption="Message: ")
+        self.info_text = urwid.Text('')
+
+        super().__init__([self.title, urwid.ListBox(1, self.users_edit), urwid.ListBox(self.msg_edit), self.info_text])
+    
+    def keypress(self, size, key):
+        if key == 'q':
+            raise urwid.ExitMainLoop()
+        if key == 'enter':
+            if self.users_edit.edit_text != None and self.msg_edit.edit_text != None:
+                new_convo(self.users_edit.edit_text, self.msg_edit.edit_text)
+            main.update_lists()
+            loop.widget = main
+
+class SendScreen(urwid.Pile):
+    def __init__(self):
+        self.title = urwid.Text(('titlebar', program_name))
+        self.msg_list = urwid.SimpleListWalker([])
+        self.edit_area = urwid.Edit(caption="Reply")
+        self.convo_id = None
+
+        super().__init__([('pack', self.title), urwid.LineBox(urwid.ListBox(self.msg_list)), (5, urwid.LineBox(self.edit_area))])
+
+    def set_id(self, id_num):
+        self.convo_id = id_num
+
+    def update_messages(self):
+        if self.convo_id == None:
+            return
+        
+        msgs = get_messages(self.convo_id)
+        for m in msgs:
+            string = "{}({}): {}".format(m[0], m[1], m[2])
+            self.msg_list.apppend(urwid.Text(string))
 
 class LoginScreen(urwid.Filler):
     def __init__(self):
@@ -83,6 +130,8 @@ if __name__ == '__main__':
 
     login = LoginScreen()
     main = MainScreen()
+    send = SendScreen()
+    new_message = NewMessageScreen()
 
     loop = urwid.MainLoop(login, palette)
 

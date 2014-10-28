@@ -62,7 +62,7 @@ def handle_send(args):
     for convo in conversations:
         if convo.id_num == convo_id:
             convo.send_message(msg)
-            return 'Message send to conversation {}'.format(convo_id)
+            return 'Message sent to conversation {}'.format(convo_id)
     return 'Error: No conversation with id={}'.format(convo_id)
 
 def handle_create_conversation(args):
@@ -85,7 +85,7 @@ def handle_get_convos(args):
         if args[0] in convo.users:
             msgs = []
             for m in convo.messages:
-                msg = [m.sender, m.date, m.text]
+                msg = (m.sender, m.date, m.text)
                 msgs.append(msg)
             convos.append([convo.id_num, convo.users, msgs])
     response = json.dumps(convos)

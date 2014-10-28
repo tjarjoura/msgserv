@@ -1,6 +1,5 @@
 import socket, sys, json, logging
 
-conversations = []
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 logging.basicConfig(filename='mylog', level=logging.DEBUG)
 logging.debug('test test test')
@@ -42,15 +41,29 @@ def get_convos():
     response = send_message('get-convos')
     logging.debug('In get_convos() -- Received: {}'.format(response))
     convos = json.loads(response)
-    convos_strings = []
+    convos_info = []
 
     for convo in convos:
-        string = convo[0]
+        users_string = ""
+        id_num = convo[0]
         for usr in convo[1]:
-            string += " {},".format(usr)
-        convos_strings.append(string)
+            string += "{}, ".format(usr)
+        convos_info.append((id_num, users_string))
 
-    return convos_strings
+    return convos_info
+
+def get_message(id_num):
+    response = send_message('get-convos')
+    convos = json.loads(response)
+
+    for convo in convos:
+        if id_num == convo[0]: # convo id number
+            return convo[2] # message list
+
+    return None 
+
+def create_convo(users, msg):
+    response = send_message("new-convo {}".format(users))
 
 def get_users():
     response = send_message('list-users')
