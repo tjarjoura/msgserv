@@ -11,14 +11,13 @@ palette = [
         ('section_title', 'bold, black', 'dark red')
         ]
 
-class MainScreen(urwid.Filler):
+class MainScreen(urwid.Pile):
     def __init__(self):
         self.title = urwid.Text(('titlebar', program_name))
         self.convo_list = urwid.SimpleListWalker([])
         self.user_list = urwid.SimpleListWalker([])
-        self.top = urwid.Pile([self.title, urwid.Columns([(25, urwid.LineBox(urwid.ListBox(self.user_list), title="USERS")), urwid.LineBox(urwid.ListBox(self.convo_list), title="CONVERSATIONS")], dividechars=5, focus_column=1)])
-
-        super().__init__(self.top, min_height=30)
+        self.controls = urwid.Text(('Ctrl-X for menu, q to quit', 'status_green'))
+        super().__init__([('pack', self.title), urwid.Columns([(25, urwid.LineBox(urwid.ListBox(self.user_list), title="USERS")), urwid.LineBox(urwid.ListBox(self.convo_list), title="CONVERSATIONS")], self.controls, dividechars=5, focus_column=1), ('pack', self.controls)])
 
     def update_lists(self):
         convos = get_convos()
