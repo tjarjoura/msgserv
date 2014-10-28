@@ -1,0 +1,1353 @@
+DEBUG:root:test test test
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(root root) -- Received: root logged in
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(root root) -- Received: root logged in
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:test test test
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:08 2014): hello tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:40:55 2014): hey tyler
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:41:00 2014): where are youuuuuuuuuuuu
+DEBUG:root:update_messages(): appending tyler(Tue Oct 28 16:42:01 2014): I'm right here
+DEBUG:root:update_messages(): appending root(Tue Oct 28 16:42:17 2014): oh really?
+DEBUG:root:test test test
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(root root) -- Received: root logged in
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_messages
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:in update_lists()
+DEBUG:root:In get_convos() -- Received: [["943249", ["root", "tyler"], [["root", "Tue Oct 28 16:40:08 2014", "hello tyler"], ["root", "Tue Oct 28 16:40:55 2014", "hey tyler"], ["root", "Tue Oct 28 16:41:00 2014", "where are youuuuuuuuuuuu"], ["tyler", "Tue Oct 28 16:42:01 2014", "I'm right here"], ["root", "Tue Oct 28 16:42:17 2014", "oh really?"], ["root", "Tue Oct 28 16:54:18 2014", "so where's the messages?"]]]]
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]

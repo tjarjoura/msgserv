@@ -1,0 +1,39 @@
+DEBUG:root:test test test
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(root ) -- Received: Error: Invalid no. of args
+DEBUG:root:In attempt_login(root root) -- Received: root logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", false], ["ambie", false], ["rod", false], ["jamen", false], ["root", true], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:r key pressed.
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:r key pressed.
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]
+DEBUG:root:test test test
+DEBUG:root:test test test
+DEBUG:root:test test test
+DEBUG:root:test test test
+DEBUG:root:In attempt_login(tyler abc123) -- Received: tyler logged in
+DEBUG:root:In get_convos() -- Received: []
+DEBUG:root:In get_users() -- Received: [["tyler", true], ["ambie", false], ["rod", false], ["jamen", false], ["root", false], ["hreeer", false]]

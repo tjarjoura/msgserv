@@ -51,7 +51,7 @@ def handle_list_users(args):
     return user_list
     
 def handle_send(args):
-    msg_txt    = args[2]
+    msg_txt    = " ".join(args[2:])
     msg_date   = time.ctime(None)
     msg_sender = args[0]
 
@@ -89,7 +89,6 @@ def handle_get_convos(args):
                 msgs.append(msg)
             convos.append([convo.id_num, convo.users, msgs])
     response = json.dumps(convos)
-    print('response = {}, convos = {}'.format(response, convos))
     return response
 
 def handle_remove_account(args):
@@ -179,7 +178,6 @@ def serve_forever(host, port):
                 rlist.append(conn)
                 print(rlist)
             else:
-                print("received transmission from {}".format(sock.getpeername()))
                 data = sock.recv(1024)
                 if not data: #connection closed by client
                     print("closing connection with {}".format(sock.getpeername()))
@@ -188,7 +186,6 @@ def serve_forever(host, port):
                     rlist.remove(sock)
                 else:
                     response = cmd_parse(data.decode("utf-8"), sock.getpeername())
-                    print(response)
                     sock.sendall(bytes(response + '/r/n', "utf-8"));
 
 def main():
