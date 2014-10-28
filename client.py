@@ -56,7 +56,7 @@ class NewMessageScreen(urwid.Pile):
         self.msg_edit = urwid.Edit(caption="Message: ")
         self.info_text = urwid.Text('')
 
-        super().__init__([self.title, urwid.ListBox(1, self.users_edit), urwid.ListBox(self.msg_edit), self.info_text])
+        super().__init__([('pack', self.title), (3, urwid.LineBox(self.users_edit)), urwid.LineBox(self.msg_edit), ('pack', self.info_text)])
     
     def keypress(self, size, key):
         if key == 'q':
